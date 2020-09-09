@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="button_msg">是</string>
+    <string name="but_msg">不是</string>
+    <string name="but_msg2">隐藏</string>
+    <string name="textview">TextView</string>
+    <string name="but_msg3">显示</string>
+    <string name="test_msg">余倩是傻逼吗？</string>
+    <string name="username">用户名：</string>
+    <string name="password">密                 码：</string>
+    <string name="loggo">loggo</string>
+    <string name="login">登录</string>
+    <string name="tishi">提示内容</string>
+</resources>
